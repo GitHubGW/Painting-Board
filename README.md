@@ -7,13 +7,12 @@
 
 ## Goals
 * Practice Vanilla JS <br>
-*  <br>
-*  <br>
+* Understanding Canvas <br>
 * Cloning Painting Board
 
 ## Functions
-*  <br>
-*  <br>
-*  <br>
-*  <br>
-* 
+* Paint <br>
+* Change Color <br>
+* Change Brush size <br>
+* Fill Background <br>
+* Save Images
