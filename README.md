@@ -1,6 +1,6 @@
 # Painting-Board-Clone
 
-## Tools
+## Technologies
 * HTML5 <br>
 * CSS3 <br>
 * Vanilla JS
@@ -10,7 +10,7 @@
 * Understanding Canvas <br>
 * Cloning Painting Board
 
-## Functions
+## Features
 * Paint <br>
 * Change Color <br>
 * Change Brush size <br>
