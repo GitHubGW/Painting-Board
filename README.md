@@ -4,18 +4,18 @@
 https://githubgw.github.io/PaintingBoard-Clone
 
 ## 🔥 Technologies
-* HTML5 <br>
-* CSS3 <br>
+* HTML5
+* CSS3
 * Vanilla JS
 
 ## 🌈 Goals
-- [x] Practice Vanilla JS <br>
-- [x] Understanding Canvas <br>
+- [x] Practice Vanilla JS
+- [x] Understanding Canvas
 - [x] Cloning Painting Board
 
 ## ✨ Features
-- [x] Paint <br>
-- [x] Change Color <br>
-- [x] Change Brush size <br>
-- [x] Fill Background <br>
+- [x] Paint
+- [x] Change Color
+- [x] Change Brush size
+- [x] Fill Background
 - [x] Save Images
